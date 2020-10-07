@@ -1,5 +1,5 @@
 <?php
-include ("Thuc_hanh.php");
+include("Rectangle.php");
 ?>
 
 <?php
